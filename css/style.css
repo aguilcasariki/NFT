@@ -63,13 +63,7 @@ hr {
   border: 0.1px solid hsl(215, 32%, 27%);
 }
 
-.attribution {
-  font-size: 11px;
-}
 
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
 
 /*****Hover*****/
 a:hover {
